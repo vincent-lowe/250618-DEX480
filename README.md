@@ -1,4 +1,4 @@
-DEX480 - Anypoiont Development Fundamentals Classroom Reference - 250618 - PDT
+#### DEX480 - Anypoiont Development Fundamentals Classroom Reference - 250618 - PDT
 
 Vincent Lowe
 
@@ -7,8 +7,11 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
+
 Attendance Code:			   4M0XY5
+
 Salesforce Mimeo:		      https://salesforce.mimeo.digital/MuleSoft
+
 eBook Redemption Key:		US39FWYOMXBB
 
 -------------------------------------------------------------------------------------------------------------------
