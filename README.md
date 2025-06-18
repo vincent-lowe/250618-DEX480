@@ -1,4 +1,4 @@
-#### DEX480 - Anypoiont Development Fundamentals Classroom Reference - 250618 - PDT
+#### DEX480 - DataWeave Development Classroom Reference - 250618 - PDT
 
 Vincent Lowe
 
@@ -58,9 +58,12 @@ https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
+
+
 Classroom Playlist
-----------------------------------------------------------------------------
-|Track|Artist|Notes|
+-------------------------------------------------------------------------------------------------------------------
+|Track Title|Artist|Notes|
+|-----------|------|-----|
 |Feelin Good|Nina Simone||
 |Gilligan's Island|TV Theme||
 |Walking Stick|Leon Redbone||
