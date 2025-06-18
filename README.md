@@ -67,3 +67,5 @@ Classroom Playlist
 |Feelin Good|Nina Simone||
 |Gilligan's Island|TV Theme||
 |Walking Stick|Leon Redbone||
+|The Hitter|Mark Erelli||
+
