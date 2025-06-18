@@ -58,4 +58,9 @@ https://anypoint.mulesoft.com
 
 https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 
-
+Classroom Playlist
+----------------------------------------------------------------------------
+|Track|Artist|Notes|
+|Feelin Good|Nina Simone||
+|Gilligan's Island|TV Theme||
+|Walking Stick|Leon Redbone||
