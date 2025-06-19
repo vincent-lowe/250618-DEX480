@@ -67,3 +67,9 @@ Classroom Playlist
 |Feelin Good|Nina Simone||
 |Gilligan's Island|TV Theme||
 |Walking Stick|Leon Redbone||
+|The Hitter|Mark Erelli||
+|How Can You Mend a Broken Heart|Al Green||
+|Steamroller|James Taylor||
+
+
+
