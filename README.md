@@ -59,6 +59,8 @@ Classroom Playlist
 |Steamroller|James Taylor||
 |The Street Beater|Quincy Jones|TV theme from Sanford and Son|
 |Hotel California|Moyun Official||
+|Foggy Mountain Breakdown|Earl Scruggs and Friends|
+|Analog Hero|Mark Erelli|For a Song|
 
 
 
